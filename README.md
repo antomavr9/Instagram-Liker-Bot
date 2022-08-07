@@ -1,1 +1,1 @@
-# Instagram-Liker-Bot
+This is a python-selenium instagram bot, which likes the first posts of your instagram feed (usually the first 5).
